@@ -1,0 +1,363 @@
+Nome: Ana Oliveira
+Idade: 19
+Matrícula: 202307123
+Curso: Engenharia Civil
+Período: 2
+MGE: 8.5
+
+Nome: João Silva
+Idade: 21
+Matrícula: 202304321
+Curso: Matemática
+Período: 4
+MGE: 9.2
+
+Nome: Carla Souza
+Idade: 22
+Matrícula: 202312456
+Curso: Engenharia Civil
+Período: 6
+MGE: 7.4
+
+Nome: Pedro Santos
+Idade: 20
+Matrícula: 202301789
+Curso: Física
+Período: 3
+MGE: 6.3
+
+Nome: Mauro Cezar
+Idade: 21
+Matrícula: 202309876
+Curso: Física
+Período: 6
+MGE: 8.9
+
+Nome: Lucas Pereira
+Idade: 23
+Matrícula: 202311234
+Curso: Filosofia
+Período: 7
+MGE: 5.7
+
+Nome: Mariana Almeida
+Idade: 20
+Matrícula: 202309543
+Curso: Engenharia Mecânica
+Período: 4
+MGE: 9.1
+
+Nome: Rafael Lima
+Idade: 22
+Matrícula: 202312678
+Curso: Biomedicina
+Período: 5
+MGE: 8.2
+
+Nome: Beatriz Martins
+Idade: 19
+Matrícula: 202307890
+Curso: Engenharia Civil
+Período: 2
+MGE: 7.3
+
+Nome: Guilherme Rodrigues
+Idade: 21
+Matrícula: 202304567
+Curso: Matemática
+Período: 4
+MGE: 6.5
+
+Nome: Sofia Silva
+Idade: 22
+Matrícula: 202310123
+Curso: Engenharia Mecânica
+Período: 6
+MGE: 8.4
+
+Nome: Daniel Fernandes
+Idade: 24
+Matrícula: 202301234
+Curso: Medicina
+Período: 5
+MGE: 7.8
+
+Nome: Júlia Costa
+Idade: 20
+Matrícula: 202306789
+Curso: Filosofia
+Período: 3
+MGE: 9.0
+
+Nome: Marcos Oliveira
+Idade: 19
+Matrícula: 202309876
+Curso: Biomedicina
+Período: 1
+MGE: 10.0
+
+Nome: Juliana Rocha
+Idade: 21
+Matrícula: 202307654
+Curso: Engenharia Civil
+Período: 4
+MGE: 6.8
+
+Nome: Eduardo Santos
+Idade: 23
+Matrícula: 202304321
+Curso: Física
+Período: 5
+MGE: 7.2
+
+Nome: Aline Martins
+Idade: 22
+Matrícula: 202311987
+Curso: Ciência da Computação
+Período: 6
+MGE: 8.6
+
+Nome: Bruno Almeida
+Idade: 20
+Matrícula: 202308765
+Curso: Engenharia Mecânica
+Período: 3
+MGE: 9.4
+
+Nome: Gabriela Lima
+Idade: 19
+Matrícula: 202307432
+Curso: Engenharia Civil
+Período: 2
+MGE: 7.1
+
+Nome: Felipe Pereira
+Idade: 22
+Matrícula: 202310987
+Curso: Filosofia
+Período: 6
+MGE: 5.9
+
+Nome: Camila Rocha
+Idade: 21
+Matrícula: 202309876
+Curso: Medicina
+Período: 5
+MGE: 9.2
+
+Nome: Tiago Fernandes
+Idade: 20
+Matrícula: 202306543
+Curso: Matemática
+Período: 3
+MGE: 8.3
+
+Nome: Vanessa Costa
+Idade: 19
+Matrícula: 202308901
+Curso: Engenharia de Computação
+Período: 2
+MGE: 10.0
+
+Nome: Henrique Oliveira
+Idade: 23
+Matrícula: 202311234
+Curso: Engenharia Civil
+Período: 7
+MGE: 6.7
+
+Nome: Luana Almeida
+Idade: 21
+Matrícula: 202310345
+Curso: Administração
+Período: 4
+MGE: 8.1
+
+Nome: Igor Lima
+Idade: 22
+Matrícula: 202304567
+Curso: Biomedicina
+Período: 6
+MGE: 7.3
+
+Nome: Thais Martins
+Idade: 20
+Matrícula: 202307654
+Curso: Engenharia Civil
+Período: 3
+MGE: 9.0
+
+Nome: Rodrigo Silva
+Idade: 19
+Matrícula: 202308765
+Curso: Ciência da Computação
+Período: 2
+MGE: 6.6
+
+Nome: Larissa Souza
+Idade: 21
+Matrícula: 202309876
+Curso: Matemática
+Período: 4
+MGE: 8.2
+
+Nome: André Costa
+Idade: 23
+Matrícula: 202301234
+Curso: Medicina
+Período: 5
+MGE: 7.5
+
+Nome: Letícia Rocha
+Idade: 22
+Matrícula: 202310987
+Curso: Engenharia Civil
+Período: 6
+MGE: 8.7
+
+Nome: Samuel Pereira
+Idade: 20
+Matrícula: 202309543
+Curso: Engenharia Mecânica
+Período: 3
+MGE: 9.1
+
+Nome: Priscila Almeida
+Idade: 19
+Matrícula: 202307890
+Curso: Engenharia Civil
+Período: 2
+MGE: 7.2
+
+Nome: Gabriel Santos
+Idade: 22
+Matrícula: 202311123
+Curso: Física
+Período: 6
+MGE: 5.8
+
+Nome: Natalia Lima
+Idade: 21
+Matrícula: 202309876
+Curso: Engenharia Mecânica
+Período: 4
+MGE: 8.4
+
+Nome: Francisco Oliveira
+Idade: 20
+Matrícula: 202306543
+Curso: Medicina
+Período: 3
+MGE: 9.0
+
+Nome: Roberta Fernandes
+Idade: 23
+Matrícula: 202304321
+Curso: Ciência da Computação
+Período: 7
+MGE: 6.9
+
+Nome: Thiago Rodrigues
+Idade: 22
+Matrícula: 202310123
+Curso: Biomedicina
+Período: 5
+MGE: 7.6
+
+Nome: Milena Rocha
+Idade: 19
+Matrícula: 202307654
+Curso: Engenharia Civil
+Período: 2
+MGE: 10.0
+
+Nome: Marcos Costa
+Idade: 21
+Matrícula: 202308901
+Curso: Engenharia Mecânica
+Período: 4
+MGE: 9.0
+
+Nome: Amanda Almeida
+Idade: 22
+Matrícula: 202310456
+Curso: Filosofia
+Período: 6
+MGE: 8.3
+
+Nome: Rodrigo Silva
+Idade: 20
+Matrícula: 202307890
+Curso: Matemática
+Período: 3
+MGE: 6.7
+
+Nome: Laura Lima
+Idade: 20
+Matrícula: 202305678
+Curso: Engenharia Civil
+Período: 4
+MGE: 7.9
+
+Nome: Felipe Costa
+Idade: 22
+Matrícula: 202311456
+Curso: Engenharia Civil
+Período: 6
+MGE: 8.3
+
+Nome: Juliana Santos
+Idade: 21
+Matrícula: 202309345
+Curso: Matemática
+Período: 4
+MGE: 6.7
+
+Nome: Gustavo Oliveira
+Idade: 23
+Matrícula: 202310678
+Curso: Filosofia
+Período: 7
+MGE: 5.8
+
+Nome: Roberta Silva
+Idade: 20
+Matrícula: 202307654
+Curso: Engenharia Mecânica
+Período: 3
+MGE: 9.2
+
+Nome: Eduardo Almeida
+Idade: 22
+Matrícula: 202309876
+Curso: Biomedicina
+Período: 5
+MGE: 7.6
+
+Nome: Mariana Costa
+Idade: 19
+Matrícula: 202308765
+Curso: Engenharia Civil
+Período: 2
+MGE: 6.9
+
+Nome: Tiago Silva
+Idade: 21
+Matrícula: 202310123
+Curso: Medicina
+Período: 5
+MGE: 8.0
+
+Nome: Carla Almeida
+Idade: 22
+Matrícula: 202311789
+Curso: Engenharia Mecânica
+Período: 4
+MGE: 7.8
+
+Nome: Bruno Costa
+Idade: 20
+Matrícula: 202306432
+Curso: Matemática
+Período: 3
+MGE: 9.0
